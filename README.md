@@ -1,7 +1,7 @@
 # This project automates the deployment of a web application on AWS using Kubernetes.
 Terraform for cloud infrastructure provisioning (AWS EKS, VPC, IAM, etc.)
 Docker for containerizing the web application
-Kubernetes (EKS) for deploying and managing the application
+Kubernetes for deploying and managing the application
 Prometheus & Grafana for monitoring
 
 # Deploy AWS Infrastructure Using Terraform
