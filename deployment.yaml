@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: web-app
-        image: <your-dockerhub-username>/my-web-app:v1
+        image: assessment/my-web-app:v1
         ports:
         - containerPort: 80
